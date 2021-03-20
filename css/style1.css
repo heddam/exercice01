@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+.un {
+  width: 100%;
+  height: 912px;
+  background-color: mediumturquoise;
+  border: 1px solid #b6b6ee;
+  margin: 10px;
+}
+
+.deux {
+  width: 100%;
+  height: 400px;
+  background-color: #a5bfbe;
+  border: 1px solid #4f4ff3;
+  margin: 10px;
+}
+
+.trois {
+  width: 46%;
+  height: 490px;
+  background-color: wheat;
+  border: 1px solid #a5bfbe;
+  margin: 10px;
+}
+
+.quatre {
+  width: 47%;
+  height: 490px;
+  background-color: wheat;
+  border: 1px solid #a5bfbe;
+  margin: 10px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.flex100 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex50 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+/*# sourceMappingURL=style1.css.map */
