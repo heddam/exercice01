@@ -44,3 +44,10 @@ body{
     flex-wrap: wrap;
     width: 50%;
   }
+@media screen and (max-width:450px){
+
+  .quatre, .un, .deux, .trois{
+    width: 100%;
+    display: none;
+  }
+}

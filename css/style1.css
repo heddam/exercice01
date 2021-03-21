@@ -7,7 +7,7 @@ body {
   width: 100%;
   height: 912px;
   background-color: mediumturquoise;
-  border: 1px solid #b6b6ee;
+  border: 1px solid #4f4ff3;
   margin: 10px;
 }
 
@@ -51,4 +51,9 @@ body {
   width: 50%;
 }
 
-/*# sourceMappingURL=style1.css.map */
+@media screen and (max-width: 450px) {
+  .quatre, .un, .deux, .trois {
+    width: 100%;
+    display: none;
+  }
+}
